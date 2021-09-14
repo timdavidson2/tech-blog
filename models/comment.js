@@ -12,4 +12,9 @@ Comment.init({
   comment_description: {
     type: DataTypes.STRING,
   },
+  date_created: {
+    type: DataTypes.DATE,
+    allowNull: false,
+    defaultValue: DataTypes.NOW,
+  },
 });
