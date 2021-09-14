@@ -67,3 +67,22 @@ body {
 .commentOwner {
   font-size: 14px;
 }
+
+.btnComment {
+  margin-top: 10px;
+}
+
+.commentText {
+  font-weight: bold;
+  padding-top: 10px;
+  background-color: rgb(113, 143, 62);
+}
+
+.commentCont {
+  border-style: dashed;
+}
+
+.headerRow {
+  background-color: black;
+  margin-bottom: 10px;
+}
