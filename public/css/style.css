@@ -63,3 +63,7 @@ body {
   max-width: 75%;
   background-color: rgb(113, 143, 62);
 }
+
+.commentOwner {
+  font-size: 14px;
+}
