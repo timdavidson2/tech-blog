@@ -9,4 +9,7 @@ Comment.init({
     primaryKey: true,
     autoIncrement: true,
   },
+  comment_description: {
+    type: DataTypes.STRING,
+  },
 });
