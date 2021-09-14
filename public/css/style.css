@@ -86,3 +86,14 @@ body {
   background-color: black;
   margin-bottom: 10px;
 }
+
+a:link {
+  color: rgb(29, 200, 23);
+}
+a:visited {
+  color: rgb(182, 179, 41);
+}
+
+a:hover {
+  color: deeppink;
+}
