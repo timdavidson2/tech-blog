@@ -97,3 +97,15 @@ a:visited {
 a:hover {
   color: deeppink;
 }
+
+.login {
+  margin-left: 25px;
+}
+
+.signup {
+  margin-left: 25px;
+}
+
+.form-group {
+  margin-top: 10px;
+}
